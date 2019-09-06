@@ -1,5 +1,13 @@
 hello,world.
 hello,git.
 add a new branch and dev&simple
-creating a new branch is quick and simple.
+creating a new branch is quick && simple.
+s
 swicth to a  new branch dev 
+creating to a new branch is quick && simple.
+ss
+o
+0
+
+
+
